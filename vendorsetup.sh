@@ -9,7 +9,7 @@ export FOX_BUILD_DEVICE="pong"
 export ALLOW_MISSING_DEPENDENCIES=true
 export FOX_USE_TWRP_RECOVERY_IMAGE_BUILDER=1
 export TARGET_DEVICE_ALT="pong"
-export FOX_TARGET_DEVICES="pong"
+#export FOX_TARGET_DEVICES="pong"
 
 # Use magisk boot for patching
 export OF_USE_MAGISKBOOT=1
