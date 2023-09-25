@@ -30,6 +30,7 @@ if [ -f $FOX_MANIFEST_ROOT/bootable/recovery/orangefox_defaults.go -a -f $FOX_MA
 	export OF_PATCH_AVB20=1
 	export OF_SCREEN_H=2412
 	export OF_STATUS_H=100
+        export OF_DISABLE_MIUI_SPECIFIC_FEATURES="1"
 	export OF_STATUS_INDENT_LEFT=48
 	export OF_STATUS_INDENT_RIGHT=48
   	export OF_HIDE_NOTCH=1
