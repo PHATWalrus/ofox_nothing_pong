@@ -5,7 +5,7 @@ export FOX_VERSION="R11.1"
 export OF_MAINTAINER=@PhatWalrus
 
 # Build environment stuffs
-export FOX_BUILD_DEVICE="pong"
+export FOX_BUILD_DEVICE="Pong"
 export ALLOW_MISSING_DEPENDENCIES=true
 export FOX_USE_TWRP_RECOVERY_IMAGE_BUILDER=1
 export TARGET_DEVICE_ALT="pong"
