@@ -21,7 +21,7 @@ export OF_DONT_PATCH_ENCRYPTED_DEVICE=1
 
 # We have a/b partitions
 export FOX_AB_DEVICE=1
-#export FOX_VIRTUAL_AB_DEVICE=1
+export FOX_VIRTUAL_AB_DEVICE=1
 export OF_AB_DEVICE_WITH_RECOVERY_PARTITION=1
 
 # Screen specifications
