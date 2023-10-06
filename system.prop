@@ -1,2 +1,10 @@
 # Battery Property
 ro.charger.enable_suspend=1
+
+ro.product.device=pong
+ro.product.model=Nothing Phone (2)
+ro.product.system.device=pong
+ro.product.system.model=Nothing Phone (2)
+ro.product.brand=nothing
+ro.product.system.brand=nothing
+ro.ofox.recovery=true
