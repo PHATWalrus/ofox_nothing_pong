@@ -3,13 +3,13 @@ export TARGET_ARCH="arm64-v8a"
 # Some about us
 export FOX_VERSION="R11.1_1"
 export OF_MAINTAINER=@PhatWalrus
-export FOX_BUILD_TYPE="Stable"
+export FOX_BUILD_TYPE="Beta"
 
 # Build environment stuffs
 export FOX_BUILD_DEVICE="Pong"
 export ALLOW_MISSING_DEPENDENCIES=true
 export FOX_USE_TWRP_RECOVERY_IMAGE_BUILDER=1
-export TARGET_DEVICE_ALT="Pong"
+export TARGET_DEVICE_ALT="pong"
 #export FOX_TARGET_DEVICES="pong"
 export TW_DEFAULT_LANGUAGE="en"
 export LC_ALL="C"
