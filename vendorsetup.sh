@@ -1,9 +1,9 @@
 export TARGET_ARCH="arm64-v8a"
 
 # Some about us
-export FOX_VERSION="R11.1_1"
+export FOX_VERSION="R11.1_2"
 export OF_MAINTAINER=@PhatWalrus
-export FOX_BUILD_TYPE="Beta"
+export FOX_BUILD_TYPE="Alpha"
 
 # Build environment stuffs
 export FOX_BUILD_DEVICE="Pong"
@@ -13,6 +13,7 @@ export TARGET_DEVICE_ALT="pong"
 #export FOX_TARGET_DEVICES="pong"
 export TW_DEFAULT_LANGUAGE="en"
 export LC_ALL="C"
+
 
 # Use magisk boot for patching
 export OF_USE_MAGISKBOOT=1
