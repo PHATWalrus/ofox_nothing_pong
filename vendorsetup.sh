@@ -3,7 +3,7 @@ export TARGET_ARCH="arm64-v8a"
 # Some about us
 export FOX_VERSION="R11.1_2"
 export OF_MAINTAINER=@PhatWalrus
-export FOX_BUILD_TYPE="Alpha"
+export FOX_BUILD_TYPE="Beta"
 
 # Build environment stuffs
 export FOX_BUILD_DEVICE="Pong"
